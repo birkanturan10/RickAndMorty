@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty", "RickAndMorty\RickAndMorty.csproj", "{CA0C19BA-B468-496F-823C-2CEE666F8FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0C19BA-B468-496F-823C-2CEE666F8FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C19BA-B468-496F-823C-2CEE666F8FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C19BA-B468-496F-823C-2CEE666F8FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C19BA-B468-496F-823C-2CEE666F8FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B0E476-9B63-4909-B988-8E1F63852D7D}
+	EndGlobalSection
+EndGlobal
